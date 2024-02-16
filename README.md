@@ -1,6 +1,6 @@
 ![MaterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm ANUSHKA BHARDWAJ</h1>
-<h3 align="center">|| 🚀👩‍💻MERN STACK DEVELOPER || || 🏆BETA - MICROSOFT LSA || || 🏅WOMEN IN TECH (HEAD) @google DSC @LNCT-E || || ✨CII YI LEARNING CHAIR ||
+<h3 align="center">|| 🚀👩‍💻MERN STACK DEVELOPER || || 🏆BETA-MICROSOFT LSA || || 🏅WOMEN IN TECH (HEAD) @GOOGLE DSC  || || ✨CII YI LEARNING CHAIR ||
  </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
