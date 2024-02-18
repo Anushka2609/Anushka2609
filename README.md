@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **REACT JS**
 
-- 💬 Ask me about **C/C++ , DSA , MERN**
+- 💬 Ask me about **C/C++ , DSA , OOPS , MERN**
 
 - 📫 How to reach me **bhardwajanushka209@gmail.com**
 
